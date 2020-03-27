@@ -10,11 +10,6 @@ The goal of this project was to develop a website to present results from the Gl
 3. Develop a webpage presenting a comparison of the four visualizations.
 4. Develop a webpage presenting a table of the raw data used to create the four visualizations.
 
-## Datasets
-
-1. https://github.com/mjknj18/Global-Weather-Data-Analysis
-2. https://openweathermap.org/api
-
 ## Tasks
 
 ### Summary Page
