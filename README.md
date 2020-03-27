@@ -1,5 +1,5 @@
 
-This project can be viewed at https://sanj19.github.io/WeatherViz/WebVisualizations/index.html
+The results of this project can be viewed at https://sanj19.github.io/WeatherViz/WebVisualizations/index.html
 
 The goal of this project was to develop a website to present results from the Global Weather Data Analysis project. Since the completed project files were available in a GitHub repository, the necessary data and visualizations were imported directly from that location. HTML with Bootstrap CSS was used to generate, format, and link the individual webpages to form the completed website.
 
