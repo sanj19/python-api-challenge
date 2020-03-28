@@ -39,3 +39,5 @@ The goal of this project was to develop a website to present results from the Gl
 3. Add HTML code to allow page presentation to adapt based on browser screen size.
 
 ![temp in world cities](temp_vs_lat.png "Temp in World Cities")
+
+
